@@ -3,7 +3,7 @@ package particle
 import (
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/ebitenutil"
-	"gogame/m/v2/primitives"
+	"github.com/ijwfly/go-particles-experiment/primitives"
 	"image/color"
 )
 

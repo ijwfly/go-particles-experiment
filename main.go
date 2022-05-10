@@ -3,9 +3,9 @@ package main
 import (
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/inpututil"
-	"gogame/m/v2/objects/particle"
-	"gogame/m/v2/objects/particlesource"
-	"gogame/m/v2/primitives"
+	"github.com/ijwfly/go-particles-experiment/objects/particle"
+	"github.com/ijwfly/go-particles-experiment/objects/particlesource"
+	"github.com/ijwfly/go-particles-experiment/primitives"
 	"log"
 	"math/rand"
 	"time"
